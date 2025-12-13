@@ -1,0 +1,180 @@
+{
+  "communityChest": [
+    {
+      "id": 1,
+      "text": "Bank error in your favor. Collect $200",
+      "action": "collect",
+      "amount": 200
+    },
+    {
+      "id": 2,
+      "text": "Doctor's fee. Pay $50",
+      "action": "pay",
+      "amount": 50
+    },
+    {
+      "id": 3,
+      "text": "Go to Jail. Go directly to jail. Do not pass Go. Do not collect $200",
+      "action": "jail"
+    },
+    {
+      "id": 4,
+      "text": "Advance to Go. Collect $200",
+      "action": "moveTo",
+      "position": 0
+    },
+    {
+      "id": 5,
+      "text": "From sale of stock you get $50",
+      "action": "collect",
+      "amount": 50
+    },
+    {
+      "id": 6,
+      "text": "Holiday fund matures. Collect $100",
+      "action": "collect",
+      "amount": 100
+    },
+    {
+      "id": 7,
+      "text": "Income tax refund. Collect $20",
+      "action": "collect",
+      "amount": 20
+    },
+    {
+      "id": 8,
+      "text": "Life insurance matures. Collect $100",
+      "action": "collect",
+      "amount": 100
+    },
+    {
+      "id": 9,
+      "text": "Hospital fees. Pay $100",
+      "action": "pay",
+      "amount": 100
+    },
+    {
+      "id": 10,
+      "text": "School fees. Pay $50",
+      "action": "pay",
+      "amount": 50
+    },
+    {
+      "id": 11,
+      "text": "Receive $25 consultancy fee",
+      "action": "collect",
+      "amount": 25
+    },
+    {
+      "id": 12,
+      "text": "You inherit $100",
+      "action": "collect",
+      "amount": 100
+    },
+    {
+      "id": 13,
+      "text": "Get Out of Jail Free",
+      "action": "jailCard"
+    },
+    {
+      "id": 14,
+      "text": "You have won second prize in a beauty contest. Collect $10",
+      "action": "collect",
+      "amount": 10
+    },
+    {
+      "id": 15,
+      "text": "You are assessed for street repairs. Pay $40",
+      "action": "pay",
+      "amount": 40
+    }
+  ],
+  "chance": [
+    {
+      "id": 1,
+      "text": "Advance to Boardwalk",
+      "action": "moveTo",
+      "position": 39
+    },
+    {
+      "id": 2,
+      "text": "Advance to Go. Collect $200",
+      "action": "moveTo",
+      "position": 0
+    },
+    {
+      "id": 3,
+      "text": "Advance to Illinois Avenue",
+      "action": "moveTo",
+      "position": 24
+    },
+    {
+      "id": 4,
+      "text": "Advance to St. Charles Place",
+      "action": "moveTo",
+      "position": 11
+    },
+    {
+      "id": 5,
+      "text": "Bank pays you dividend of $50",
+      "action": "collect",
+      "amount": 50
+    },
+    {
+      "id": 6,
+      "text": "Get Out of Jail Free",
+      "action": "jailCard"
+    },
+    {
+      "id": 7,
+      "text": "Go back 3 spaces",
+      "action": "moveBack",
+      "spaces": 3
+    },
+    {
+      "id": 8,
+      "text": "Go to Jail. Go directly to jail. Do not pass Go. Do not collect $200",
+      "action": "jail"
+    },
+    {
+      "id": 9,
+      "text": "Pay poor tax of $15",
+      "action": "pay",
+      "amount": 15
+    },
+    {
+      "id": 10,
+      "text": "Take a trip to Reading Railroad",
+      "action": "moveTo",
+      "position": 5
+    },
+    {
+      "id": 11,
+      "text": "Advance to the nearest Railroad",
+      "action": "nearestRailroad"
+    },
+    {
+      "id": 12,
+      "text": "Your building loan matures. Collect $150",
+      "action": "collect",
+      "amount": 150
+    },
+    {
+      "id": 13,
+      "text": "You have been elected Chairman of the Board. Pay each player $50",
+      "action": "payAll",
+      "amount": 50
+    },
+    {
+      "id": 14,
+      "text": "Speeding fine. Pay $15",
+      "action": "pay",
+      "amount": 15
+    },
+    {
+      "id": 15,
+      "text": "Advance to the nearest Utility",
+      "action": "nearestUtility"
+    }
+  ]
+}
